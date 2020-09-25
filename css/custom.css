@@ -1,0 +1,11 @@
+.main-content {
+  background-image: url('../assets/bg.png');
+  background-repeat: repeat;
+  height: 85vh;
+}
+body {
+    overflow-y:hidden;
+}
+footer {
+  height: 5vh;
+}
